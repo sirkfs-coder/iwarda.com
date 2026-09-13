@@ -7,9 +7,25 @@
     <link>https://iwarda.com/blog/</link>
     <description>Latest posts from iwarda.com</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:07:58 GMT</lastBuildDate>
     <atom:link href="https://iwarda.com/rss.xml" rel="self" type="application/rss+xml"/>
     <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>How to Set Cloudflare: A Simple Step-by-Step Guide for Beginners</title>
+      <link>https://iwarda.com/website-security/set-cloudflare-step-guide.html</link>
+      <guid isPermaLink="true">https://iwarda.com/website-security/set-cloudflare-step-guide.html</guid>
+      <pubDate>Sun, 13 Sep 2026 07:07:58 GMT</pubDate>
+      <description>The No-Regrets Guide to Setting Up Cloudflare: Stories, Checkpoints, and Real-World Success
+
+
+Switching your domain to Cloudflare is often described as simple. But as anyone who’s shepherded a real site through DNS changes knows, the “three-click” promise rarely matches reality. I still remember the time I inherited a client site and, within minutes of following a quick-start guide, managed to cut off their email for two days, just because one obscure DNS record slipped through the cracks.
+
+
+Thi</description>
+      <category>Website Security</category>
+      <author>Sir kfs</author>
+    </item>
 
     <item>
       <title>Data-Driven Guide to Choosing the Best Tea Garden for Quality and</title>

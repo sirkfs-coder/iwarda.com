@@ -19,6 +19,34 @@
   </url>
 
   <url>
+    <loc>https://iwarda.com/category/website-security/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/dns/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/website-setup/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/cloud-services/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://iwarda.com/category/tea-culture/</loc>
     
     <changefreq>weekly</changefreq>
@@ -51,6 +79,13 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/website-security/set-cloudflare-step-guide.html</loc>
+    <lastmod>2026-09-13T07:07:58.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
