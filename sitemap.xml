@@ -19,6 +19,34 @@
   </url>
 
   <url>
+    <loc>https://iwarda.com/category/investment-funds/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/mutual-funds/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/portfolio-management/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/fund-analysis/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://iwarda.com/category/personal-finance/</loc>
     
     <changefreq>weekly</changefreq>
@@ -51,6 +79,13 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/investment-funds/fidelity-magellan-fund-explained.html</loc>
+    <lastmod>2026-09-16T14:36:09.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
