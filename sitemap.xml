@@ -26,6 +26,27 @@
   </url>
 
   <url>
+    <loc>https://iwarda.com/category/trading-platforms/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/investing-tips/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/category/broker-reviews/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://iwarda.com/category/brokerage/</loc>
     
     <changefreq>weekly</changefreq>
@@ -107,6 +128,41 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/online-trading/saxo-bank-fees-commissions.html</loc>
+    <lastmod>2026-09-19T08:29:37.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/online-trading/saxo-bank-regulation-security.html</loc>
+    <lastmod>2026-09-19T08:29:29.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/online-trading/saxo-bank-research-tools-insights.html</loc>
+    <lastmod>2026-09-19T08:29:22.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/online-trading/open-fund-saxo-bank-account.html</loc>
+    <lastmod>2026-09-19T08:29:09.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://iwarda.com/online-trading/saxo-bank-trader-guide.html</loc>
+    <lastmod>2026-09-19T07:58:06.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
